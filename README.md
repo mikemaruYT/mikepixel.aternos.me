@@ -1,0 +1,2 @@
+mikepixel.aternos.me
+aternosのサーバーです。手動の起動なので24時間いつでも遊べるわけではありません。
